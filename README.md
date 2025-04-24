@@ -15,3 +15,4 @@
 - Cambios en el paquete Departamentos (Funciona)
 - Cambios en el paquete Proveedores (Funciona)
 - Cambios en el paquete Periodos (Funciona)
+- Cambios en el paquete Credenciales (Funciona)
